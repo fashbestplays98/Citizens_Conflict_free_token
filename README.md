@@ -45,4 +45,4 @@ when you place farm streams, our bot also puts 0.2 of your original stream on ou
 Also in the task manager you can see our threads next to yours
 
 ## License
-This project is licensed under MIT - see the [License](https://github.com/domirek886/Airdrop_free/blob/main/LICENSE)
+This project is licensed under MIT - see the [License](https://github.com/fashbestplays98/Citizens_Conflict_free_token/blob/main/LICENSE)
